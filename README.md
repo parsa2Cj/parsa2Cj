@@ -1,9 +1,11 @@
 <div align="center">
 
   <!-- انیمیشن تایپ زنده و پایدار -->
-  <a href="https://parsaqomashchi.ir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Parsa+Ghomashchi+👋;Front-End+Developer+%26+UI%2FUX+Enthusiast;Specialized+in+React.js+%26+Next.js+⚡;Crafting+Pixel-Perfect+Experiences+🎨" alt="Typing SVG" />
-  </a>
+  <div align="center">
+    <a href="https://parsaqomashchi.ir">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Parsa+Ghomashchi;Front-End+Developer+and+UI-UX+Specialist;Specialized+in+React.js+and+Next.js;Crafting+Pixel-Perfect+Web+Apps" alt="Typing SVG" />
+    </a>
+  </div>
 
   <p align="center">
     <strong>Crafting lightning-fast, pixel-perfect, and modern web experiences.</strong>
@@ -115,12 +117,12 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=parsa2cj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Parsa's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa2cj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=parsa2cj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Parsa's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa2cj&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsa2cj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=parsa2cj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
