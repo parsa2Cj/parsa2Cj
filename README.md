@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- انیمیشن تایپ زنده و پایدار -->
-  <div align="center">
-    <a href="https://parsaqomashchi.ir">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Parsa+Ghomashchi;Front-End+Developer+and+UI-UX+Specialist;Specialized+in+React.js+and+Next.js;Crafting+Pixel-Perfect+Web+Apps" alt="Typing SVG" />
-    </a>
-  </div>
+  <!-- انیمیشن تایپ زنده (کد اصلاح‌شده بدون کاراکترهای ناسازگار) -->
+  <a href="https://parsaqomashchi.ir">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there,+I+am+Parsa+Ghomashchi;Front-End+Developer+and+UI-UX+Specialist;Specialized+in+React.js+and+Next.js;Crafting+Pixel-Perfect+Web+Apps&v=1" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <strong>Crafting lightning-fast, pixel-perfect, and modern web experiences.</strong>
@@ -31,15 +29,15 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Focus:** Building performant applications with **Next.js (App Router)**, **React.js**, and **TypeScript**.
-- 🎨 **UI/UX Craft:** Transforming complex **Figma & Adobe XD** designs into responsive, clean, and **Pixel-Perfect** code.
-- ⚡ **Optimization:** Passionate about high **Core Web Vitals**, quick initial load times (< 1.2s), and cross-browser consistency.
-- 🌍 **Work Mode:** Open for **100% Full-time Remote** Front-End opportunities.
-- 📍 Based in **Kurdistan, Iran**.
+- 🔭 **Current Focus:** Building performant applications with **Next.js (App Router)**, **React.js**, and **TypeScript**[cite: 1].
+- 🎨 **UI/UX Craft:** Transforming complex **Figma & Adobe XD** designs into responsive, clean, and **Pixel-Perfect** code[cite: 1].
+- ⚡ **Optimization:** Dedicated to sub-1.2s load speeds, high **Core Web Vitals**, and cross-browser consistency[cite: 1].
+- 🌍 **Work Mode:** Open for **100% Full-time Remote** Front-End engineering roles[cite: 1].
+- 📍 Based in **Kurdistan, Iran**[cite: 1].
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,vite,redux,nodejs,git,github,postman,figma,cloudflare" alt="Tech Skills" />
@@ -52,12 +50,12 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Core** | JavaScript (ES6+), TypeScript, Semantic HTML5, CSS3 / Modern CSS |
-| **Frameworks & Libs** | React.js, Next.js (App Router, SSR), Vue.js, Vite, SPA Architecture |
-| **Styling & UI** | Tailwind CSS, Mobile-First Design, Flexbox/Grid, Pixel-Perfect, Glassmorphism |
-| **Data & State** | RESTful APIs, Axios, TanStack Query (React Query), Context API, WebSockets |
-| **Optimization** | Core Web Vitals, Code Splitting, Lazy Loading, Asset Compression |
-| **Tools & Workflow** | Git, GitHub, GitHub Actions (CI/CD), Chrome DevTools, npm/yarn, Postman |
+| **Core Web & Languages** | JavaScript (ES6+), TypeScript, Semantic HTML5, Modern CSS3[cite: 1] |
+| **Frameworks & Libs** | React.js, Next.js (App Router, SSR), Vue.js, Vite, SPA Architecture[cite: 1] |
+| **Styling & UI** | Tailwind CSS, Mobile-First Design, Flexbox/Grid, Pixel-Perfect, Glassmorphism[cite: 1] |
+| **Data & State** | RESTful APIs, Axios, TanStack Query (React Query), Context API, WebSockets[cite: 1] |
+| **Optimization** | Core Web Vitals, Code Splitting, Lazy Loading, Asset Compression (<1.2s load)[cite: 1] |
+| **Tools & Workflow** | Git, GitHub, GitHub Actions (CI/CD), Chrome DevTools, npm/yarn, Postman[cite: 1] |
 
 </details>
 
@@ -69,31 +67,31 @@
   <tr>
     <td width="50%">
       <h3 align="center">🌐 Personal Portfolio</h3>
-      <p align="center">Interactive dark-themed personal showcase built with smooth animations and responsive design.</p>
+      <p align="center">Interactive dark-themed personal showcase built with smooth animations and Glassmorphism effects[cite: 1].</p>
       <p align="center">
-        <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vite</code>
+        <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vite</code>[cite: 1]
       </p>
       <p align="center">
-        <a href="https://parsaqomashchi.ir/"><b>🔗 Live Demo</b></a>
+        <a href="https://parsaqomashchi.ir/"><b>🔗 Live Demo</b></a>[cite: 1]
       </p>
     </td>
     <td width="50%">
       <h3 align="center">☁️ Luximo Cloud Platform</h3>
-      <p align="center">High-performance UI engineering with real-time feedback and sub-1.2s loading metrics.</p>
+      <p align="center">High-performance UI engineering with real-time feedback and sub-1.2s loading metrics[cite: 1].</p>
       <p align="center">
-        <code>Tailwind CSS</code> <code>Modern JS</code> <code>Pixel-Perfect</code>
+        <code>Tailwind CSS</code> <code>Modern JS</code> <code>Pixel-Perfect</code>[cite: 1]
       </p>
       <p align="center">
-        <a href="https://luximo.ir/restaurant"><b>🔗 View Platform</b></a>
+        <a href="https://luximo.ir/restaurant"><b>🔗 View Platform</b></a>[cite: 1]
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🛒 RizRizo Online Store</h3>
-      <p align="center">Catalog and cart revamp with instant debounced search and cross-browser resilience.</p>
+      <p align="center">Catalog and checkout overhaul with debounced live search and mobile-first UX[cite: 1].</p>
       <p align="center">
-        <code>React.js</code> <code>Modern JS</code> <code>E-Commerce</code>
+        <code>React.js</code> <code>Modern JS</code> <code>E-Commerce</code>[cite: 1]
       </p>
       <p align="center">
         <b>🛍️ Production UI</b>
@@ -101,12 +99,12 @@
     </td>
     <td width="50%">
       <h3 align="center">📅 Daily Planner SPA</h3>
-      <p align="center">Daily event management system featuring structured state management and client authentication.</p>
+      <p align="center">Daily event management system featuring structured state management and client authentication[cite: 1].</p>
       <p align="center">
-        <code>React.js</code> <code>TypeScript</code> <code>Tailwind</code>
+        <code>React.js</code> <code>TypeScript</code> <code>Tailwind</code>[cite: 1]
       </p>
       <p align="center">
-        <a href="https://github.com/parsa2cj"><b>💻 Repository</b></a>
+        <a href="https://github.com/parsa2cj"><b>💻 Repository</b></a>[cite: 1]
       </p>
     </td>
   </tr>
@@ -117,17 +115,17 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=parsa2cj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Parsa's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa2cj&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=parsa2cj&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Parsa's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa2cj&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=parsa2cj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=parsa2cj&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,35&height=70&section=footer" width="100%"/>
-  <p>⭐ Built with care by <b>Parsa Ghomashchi</b></p>
+  <p>⭐ Designed with passion by <b>Parsa Ghomashchi</b>[cite: 1]</p>
 </div>
